@@ -28,4 +28,5 @@ This project focuses on analysing total sales amount of Vrindavan Stores(Cloth S
 6. Screenshots
    Show what the dashboard looks like:a)https://github.com/jibinjohn880-ship-it/first/blob/main/Screenshot%202026-07-26%20183353.png
    b)https://github.com/jibinjohn880-ship-it/first/blob/main/Screenshot%202026-07-26%20183414.png
-   c)
+   c)https://github.com/jibinjohn880-ship-it/first/blob/main/Screenshot%202026-07-26%20183434.png
+   d)
