@@ -31,3 +31,4 @@ This project focuses on analysing total sales amount of Vrindavan Stores(Cloth S
    c)https://github.com/jibinjohn880-ship-it/first/blob/main/Screenshot%202026-07-26%20183434.png
    d)https://github.com/jibinjohn880-ship-it/first/blob/main/Screenshot%202026-07-26%20183452.png
    e)https://github.com/jibinjohn880-ship-it/first/blob/main/Screenshot%202026-07-26%20183514.png
+   f)https://github.com/jibinjohn880-ship-it/first/blob/main/Screenshot%202026-07-26%20183527.png
