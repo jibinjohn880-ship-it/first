@@ -26,5 +26,6 @@ This project focuses on analysing total sales amount of Vrindavan Stores(Cloth S
    d)Amazon is the channel which helps Vrinda Store the most to sell their products.
 
 6. Screenshots
-   Show what the dashboard looks like:
+   Show what the dashboard looks like:a)https://github.com/jibinjohn880-ship-it/first/blob/main/Screenshot%202026-07-26%20183353.png
+   b)
    
